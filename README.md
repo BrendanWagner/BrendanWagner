@@ -21,7 +21,7 @@ I'm a data scientist and machine learning engineer looking for exciting projects
   <summary>🔬 <b>Data Science Projects</b> (Click to expand)</summary>
   <br>
   
-  * [**Steam Review Bot Detector**](https://github.com/BrendanWagner/Steam-Review-Bot-Detector) - Using machine learning to determine whether a review on Steam is a bot or not
+  * [**Steam Review Bot Detector**](https://github.com/BrendanWagner/Steam-Review-Bot-Detector) - Using random forests to determine whether a review on Steam is a bot or not
   
 </details>
 
@@ -37,7 +37,7 @@ I'm a data scientist and machine learning engineer looking for exciting projects
   <summary>🔬 <b>Simulations</b> (Click to expand)</summary>
   <br>
   
-  * [**3-Body Problem simulator (needs link)**](link-to-repo) - Edit me
+  * [**3-Body Problem simulator (needs link)**](link-to-repo) - Straightforward parameters-to-visualization of the n-body problem, specifically for 3-body problems
   * [**Wave simulator (needs link)**](link-to-repo) - Edit me
   * [**Pharmacokinetics of Breastmilk Simulator**](https://github.com/BrendanWagner/Mathematically-modeling-drugs-in-breast-milk) - Edit me
   
