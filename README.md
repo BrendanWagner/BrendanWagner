@@ -34,7 +34,7 @@ I'm a data scientist and machine learning engineer looking for exciting projects
 </details>
 
 <details>
-  <summary>🔬 <b>Simulations</b> (Click to expand)</summary>
+  <summary>🔭 <b>Simulations</b> (Click to expand)</summary>
   <br>
   
   * [**3-Body Problem simulator**](https://github.com/BrendanWagner/N-Body-Simulator) - Straightforward parameters-to-visualization of the n-body problem, specifically for 3-body problems
