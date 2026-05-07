@@ -1,4 +1,57 @@
-## Hi there 👋
+# Brendan Wagner
+
+I'm a data scientist and machine learning engineer looking for exciting projects in the world of motorsports.
+
+---
+
+### 🧰 Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scitkit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=Cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+#
+
+<details>
+  <summary>🔬 <b>Data Science Projects</b> (Click to expand)</summary>
+  <br>
+  
+  * [**Steam Review Bot Detector**]([link-to-repo](https://github.com/BrendanWagner/Steam-Review-Bot-Detector)) - Using machine learning to determine whether a review on Steam is a bot or not
+  
+</details>
+
+<details>
+  <summary>📊 <b>Data Visualization Projects</b> (Click to expand)</summary>
+  <br>
+  
+  * [**F1 Race Replays**](https://github.com/BrendanWagner/F1_Race_Telemetry) - Reconstructed F1 races (from 2025) based on telemetry data
+  
+</details>
+
+<details>
+  <summary>🔬 <b>Simulations</b> (Click to expand)</summary>
+  <br>
+  
+  * [**3-Body Problem simulator (needs link)**](link-to-repo) - Edit me
+  * [**Wave simulator (needs link)**](link-to-repo) - Edit me
+  * [**Pharmacokinetics of Breastmilk Simulator**]([link-to-repo](https://github.com/BrendanWagner/Mathematically-modeling-drugs-in-breast-milk)) - Edit me
+  
+</details>
+
+<!--
+<details>
+  <summary>📊 <b>Racecars</b> (Click to expand)</summary>
+  <br>
+  
+  * [**Edit me (needs link)**](link-to-repo) - Edit me
+  
+</details>
+-->
 
 <!--
 **BrendanWagner/BrendanWagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
