@@ -37,7 +37,7 @@ I'm a data scientist and machine learning engineer looking for exciting projects
   <summary>🔬 <b>Simulations</b> (Click to expand)</summary>
   <br>
   
-  * [**3-Body Problem simulator (needs link)**](link-to-repo) - Straightforward parameters-to-visualization of the n-body problem, specifically for 3-body problems
+  * [**3-Body Problem simulator**](https://github.com/BrendanWagner/N-Body-Simulator) - Straightforward parameters-to-visualization of the n-body problem, specifically for 3-body problems
   * [**Wave simulator (needs link)**](link-to-repo) - Edit me
   * [**Pharmacokinetics of Breastmilk Simulator**](https://github.com/BrendanWagner/Mathematically-modeling-drugs-in-breast-milk) - Edit me
   
