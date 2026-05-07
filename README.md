@@ -38,7 +38,7 @@ I'm a data scientist and machine learning engineer looking for exciting projects
   <br>
   
   * [**3-Body Problem simulator**](https://github.com/BrendanWagner/N-Body-Simulator) - Straightforward parameters-to-visualization of the n-body problem, specifically for 3-body problems
-  * [**Wave simulator (needs link)**](link-to-repo) - Edit me
+  * [**Wave simulator (needs link)**](https://github.com/BrendanWagner/ACME_HW/tree/main/WaveEquation) - A wave simulator using hand-coded PDEs
   * [**Pharmacokinetics of Breastmilk Simulator**](https://github.com/BrendanWagner/Mathematically-modeling-drugs-in-breast-milk) - A solution to ODEs presented by tracking how drugs are aborbed into breastmilk via the mother's medication and blood.
   
 </details>
