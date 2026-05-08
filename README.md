@@ -24,6 +24,7 @@ I'm a data scientist and machine learning engineer looking for exciting projects
   <br>
   
   * [**Steam Review Bot Detector**](https://github.com/BrendanWagner/Steam-Review-Bot-Detector) - Using random forests to determine whether a review on Steam is a bot or not
+  * [**NCAA Football Ranker**](https://github.com/BrendanWagner/CFB_Rankings/blob/main/idk.ipynb) - Using PageRank algorithm to rank college football teams (because the committee underrates my team)
   
 </details>
 
